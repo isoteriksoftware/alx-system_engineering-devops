@@ -1,6 +1,1 @@
- ``diff
-
-! Configuration done finally.
-+ By Authur: Afolabi John Oluwaseun
-
-`` 
+# 0x0A

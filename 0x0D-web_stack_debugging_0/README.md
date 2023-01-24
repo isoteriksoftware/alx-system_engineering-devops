@@ -1,6 +1,1 @@
-```diff
-
-- Up and running code.
-- Author: Afolabi John Oluwaseun.
-
-```
+0x0D
